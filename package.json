@@ -1,5 +1,5 @@
 {
-  "name": "vite-react-starter",
+  "name": "FormXpert",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -24,16 +24,5 @@
     "eslint-plugin-react-refresh": "^0.4.5",
     "postcss": "^8.4.35",
     "tailwindcss": "^3.4.1"
-  },
-  {
-  "builds": [
-    {
-      "src": "index.html",
-      "use": "@vercel/static"
-    }
-  ],
-  "outputDirectory": "dist"
-}
-
-  
+  }
 }
